@@ -1,5 +1,9 @@
 import { get } from 'config';
 
-export const API_CONFIG = {
+interface IApiConfig {
+  PORT: number;
+}
+
+export const API_CONFIG: IApiConfig = {
   PORT: get('api.port'),
 };

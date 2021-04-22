@@ -1,5 +1,12 @@
 {
     "api": {
         "port": 8000
-    }
+    },
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "username": "",
+        "password": "",
+        "database": ""
+      }
 }

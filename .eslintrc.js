@@ -77,7 +77,7 @@ module.exports = {
     'no-undef-init': 'error',
     'no-unsafe-finally': 'error',
     'no-unused-expressions': 'error',
-    'no-unused-vars': 'error',
+    // 'no-unused-vars': 'error',
     'no-use-before-define': 'error',
     'no-useless-call': 'error',
     'no-useless-concat': 'error',
